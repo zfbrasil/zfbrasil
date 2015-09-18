@@ -11,7 +11,7 @@ title: 1 - ZFBrasil Cast
     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224452831&amp;color=00cc11&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false">
 </iframe>
 
-Nesse primeiro episódio do ZFBRasil Cast. Contando com a presença de [Paulo Eduardo](http://github.com/pauloelr),
+Nesse primeiro episódio do ZFBrasil Cast. Contando com a presença de [Paulo Eduardo](http://github.com/pauloelr),
 [Daniel Gimenes](http://github.com/danizord), [Fábio Carneiro](http://github.com/fabiocarneiro) e 
 [Jefersson Nathan](http://github.com/malukenho) discutindo o que seria o futuro do Framework e as ultimas noticias 
 que noteiam o desenvolvimento do ZF2 e seu sucessor, o ZF3.
