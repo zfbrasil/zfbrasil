@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
+Somos simples desenvolvedores que amam, evangelizam e difundem o ZF no brasil.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Zend Framework Brasil Team](https://github.com/zfbrasil).
