@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: 1 - ZFBRasil Cast
+title: 1 - ZFBrasil Cast
 ---
 
 <iframe 
